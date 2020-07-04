@@ -1,5 +1,5 @@
 body {
-  background-color: #88e;
+  background-color: #ddd;
 }
 .out {
   color: #888;
@@ -8,7 +8,7 @@ body {
 
 header {
   text-align : right;
-  color: #44c;
+  color: #444;
 }
 
 div {
@@ -16,20 +16,20 @@ div {
 }
 .rows {
   /* flex-wrap: wrap; */
-  background-color: #aaf;
+  background-color: #eee;
   border-radius: 10px;
   margin: 40px;
   padding: 10px;
   width: 800px;
   height: 250px;
-  box-shadow: 0 4px 0 #66d;
+  box-shadow: 0 4px 0 #bbb;
   
   
 }
 
 .block {
   border-radius: 10px;
-  background-color: #ccf;
+  background-color: #fff;
   width: 180px;
   height: 200px;
   font-size: 16px;
@@ -40,6 +40,6 @@ div {
   /* flex-wrap: wrap; */
   float: left;
   text-align: center;
-  box-shadow: 0 4px 0 #88e;
+  box-shadow: 0 4px 0 #ccc;
   
 }
