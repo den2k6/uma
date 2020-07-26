@@ -11,19 +11,16 @@ header {
   color: #444;
 }
 
-div {
-  align: center;
-}
+
 .rows {
   /* flex-wrap: wrap; */
   background-color: #eee;
   border-radius: 10px;
-  margin: 20px 20px;
+  margin: 10px 10px;
   padding: 10px;
-  width: 960px;
-  height: 330px;
-  box-shadow: 0 4px 0 #bbb;
-  
+  width: 920px;
+  height: 320px;
+  box-shadow: 0 4px 0 #bbb;  
   
 }
 
